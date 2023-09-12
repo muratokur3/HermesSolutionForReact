@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import resim1 from '../images/gallery-images1.jpg'
-import resim2 from '../images/gallery-images2.jpg'
-import resim3 from '../images/gallery-images3.jpg'
-import resim4 from '../images/gallery-images4.jpg'
-import resim5 from '../images/gallery-images5.jpg'
-import resim6 from '../images/gallery-images6.jpg'
-import resim7 from '../images/gallery-images7.jpg'
-import resim8 from '../images/gallery-images8.jpg'
+import resim1 from '../../images/gallery-images1.jpg'
+import resim2 from '../../images/gallery-images2.jpg'
+import resim3 from '../../images/gallery-images3.jpg'
+import resim4 from '../../images/gallery-images4.jpg'
+import resim5 from '../../images/gallery-images5.jpg'
+import resim6 from '../../images/gallery-images6.jpg'
+import resim7 from '../../images/gallery-images7.jpg'
+import resim8 from '../../images/gallery-images8.jpg'
 
 export class SectionTree extends Component {
   render() {

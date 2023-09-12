@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import resim from "../images/team-work.jpg";
+import resim from "../../images/team-work.jpg";
 class SectionTwo extends Component {
   render() {
     return (

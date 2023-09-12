@@ -1,9 +1,9 @@
-import React, { Component } from "react";
-class Head extends Component {
+import React, { Component } from 'react'
+
+export class Navigate extends Component {
   render() {
     return (
-      <div id="header">
-      <div className="navbar">
+        <div className="navbar">
         <div className="logo">
           <i className="fa-solid fa-book-open fa-2x" style={{color: "orange",}}></i>
           <p>
@@ -29,16 +29,8 @@ class Head extends Component {
         </ul>
 
       </div>
-       <div className="banner">
-      
-           <h3>Your reliable software solutions partner</h3>
-           <p>We code what you need</p>
-           <button className="main-button">Learn more</button>
-      
-   </div>
-   </div>
-    );
+    )
   }
 }
 
-export default Head;
+export default Navigate
